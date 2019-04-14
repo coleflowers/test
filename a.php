@@ -6,4 +6,10 @@ function abc(){
 }
 abc();
 
+class abc {
+	private $abc = "f";
+	
+	
+}
+
 ?>
